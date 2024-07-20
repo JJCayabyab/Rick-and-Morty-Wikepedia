@@ -1,0 +1,18 @@
+.cards{
+
+    border-radius: 10px;
+    background-color: #284057;
+    /*
+    border: 2px solid rgb(148, 216, 253);
+    */
+}
+
+.img{
+    border-radius:10px 10px 0 0 ;
+}
+.badge{
+    top: 10px;
+    right: 20px;
+    font-size: 15px;
+}
+

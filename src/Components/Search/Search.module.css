@@ -1,0 +1,14 @@
+.input{
+    width: 40%;
+    border:1px solid #284057;
+    color: white;
+    background-color: #284057;
+    border-radius:10px;
+    padding: 10px 15px;
+    margin-right: 5px;  
+}
+
+.input:focus{
+    outline: 1px solid rgb(148, 216, 253);
+}
+
