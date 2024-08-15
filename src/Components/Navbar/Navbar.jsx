@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
             <div className="container">
-                <Link to="/" className="fs-3 ubuntu navbar-brand" style={{ color: "white" }}>Rick and <span className="text-primary">Morty </span>Wiki </ Link>
+                <Link to="/" className="fs-3 ubuntu navbar-brand" style={{ color: "white" }}><span className="text-primary">RickVerse </span> </ Link>
                 <button className="navbar-toggler"
                     type="button"
                     data-bs-toggle="collapse"
